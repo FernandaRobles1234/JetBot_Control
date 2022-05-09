@@ -1,0 +1,5 @@
+/home/jetbot/JetbotControl/tests/build/CMakeFiles/rebuild_cache.dir
+/home/jetbot/JetbotControl/tests/build/CMakeFiles/edit_cache.dir
+/home/jetbot/JetbotControl/tests/build/CMakeFiles/threadtest.dir
+/home/jetbot/JetbotControl/tests/build/CMakeFiles/cameratest.dir
+/home/jetbot/JetbotControl/tests/build/CMakeFiles/controltest.dir
